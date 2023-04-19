@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syahrul Fauzi</h1>
+<h1 align="center">Hi 👋, I'm S Fauzi</h1>
 
 - 👀 I’m interested in **UIX**, **Graphic Design**
 
