@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm S Fauzi</h1>
 
-- 👀 I’m interested in **UIX**, **Graphic Design**
+- 👀 I’m interested in **Full Stack Web Dev**, **UIX**, **Graphic Design**
 
 - 🌱 I’m currently learning **C++, Java, HTML, CSS, PHP**
 
