@@ -1,17 +1,57 @@
-<h1 align="center">Hi 👋, I'm S Fauzi</h1>
+# 👋 Hi there, I'm S Fauzi! 
 
-- 👀 I’m interested in **Full Stack Web Dev**, **UIX**, **Graphic Design**
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZjNWIwYTRkOTcwMjhlMWZlOTRiODdiZTAzMzMwM2ZkMDQ1M2VmYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</div>
 
-- 🌱 I’m currently learning **C++, Java, HTML, CSS, PHP**
+## 💻 Web Developer Extraordinaire
 
-- 📫 How to reach me **sjahrulfauzii@gmail.com**
+I craft elegant, performant web solutions with modern technologies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/sfauziiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sfauziiii" height="30" width="40" /></a> <a href="https://www.behance.net/sfauzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sfauzi" height="30" width="40" /></a>
-</p>
+### 🔧 My Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+```bash
+# FRONTEND
+echo "Vue.js ⚡ | Tailwind CSS 🎨 | JavaScript/TypeScript 🧠"
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+# BACKEND
+echo "Laravel 🚀 | PHP 🐘 | MySQL 🗄️"
+
+# TOOLS
+echo "Git 🔄 | Docker 🐳 | VS Code 📝"
+```
+
+## 🚀 What I Do
+
+- 🌐 Develop responsive, dynamic web applications
+- ⚙️ Build robust backend systems with Laravel
+- 🎨 Craft beautiful UI/UX with Vue.js and Tailwind CSS
+- 🛠️ Implement modern development workflows
+- 📱 Create seamless user experiences
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sfauzi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sfauzi&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sfauzi/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.speechlessmind.com/)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.speechlessmind.com/)
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sfauzi&color=blueviolet" alt="Profile Views" />
+</div>
